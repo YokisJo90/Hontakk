@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://live.mana2.my/HorizonSports/tracks-v1a1/mono.m3u8?token=1693814718-fee0ea1a1a1647d991aae7f13cb5bf18-0-a6f12b3d465e43419c9f3f9b22849473&auth_key=1693814718-fee0ea1a1a1647d991aae7f13cb5bf18-0-6fe60bb8f57ec8d85ce916a058ceead8
+https://live.mana2.my/HorizonSports/index.m3u8?auth_key=1693814944-0851bd0b485a457fa1e451069a4e1184-0-0f0a900c865acc23dac754252adfdc19&token=1693814944-0851bd0b485a457fa1e451069a4e1184-0-0f0a900c865acc23dac754252adfdc19
